@@ -12,12 +12,17 @@ body {
 }
 
 header {
+    display: flex;
     flex-grow: 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #737373;
 }
 
 header .logo {
     display: flex;
     align-items: center;
+    font-size: 25px;
 }
 
 header img {
@@ -25,12 +30,26 @@ header img {
     width: 75px;
 }
 
+header button {
+    background-color: #c89d66;
+    border: transparent;
+    border-radius: 7px;
+    padding: 10px;
+    height: 3em;
+    font-size: 15px;
+}
+
 main {
     flex-grow: 10
 }
 
 footer {
+    background-color: #737373;
+    display: flex;
     flex-grow: 0;
-    height: 100px;
+    height: 30px;
     width: 100vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
