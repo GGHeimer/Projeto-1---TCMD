@@ -1,7 +1,7 @@
 Olá!
 
-Seja bem-vindo à Warrior's Weaalth, uma consultoria especializada em tornar seus investimentos mais diveertidos.
-Somos uma empresa focada em fazer o usuário aproveitar o que há de melhor em fazer redimento nos investimentos aliado
+Seja bem-vindo à Warrior's Wealth, uma consultoria especializada em tornar seus investimentos mais diveertidos.
+Somos uma empresa focada em fazer o usuário aproveitar o que há de melhor em fazer rendimento nos investimentos aliado
 ao fato de poder se divertir durante a jornada.
 
 Compre título mobiliários, ações, ETF, entre outros e os converta em customizáveis para um personagem de RPG.
