@@ -11,3 +11,6 @@ Veja seus investimentos crescerem de maneira dinâmica e divertida.
 Começe hoje mesmo!!
 
 Acesse: warriors-wealth.com.br
+
+Nesta página você encontrará links que ensinam como usar a plataforma, cursos úteis, nossa loja de itens e muito mais. Fique à vontade para navegar
+pelo universo dos investimentos no reino da Warrior's.
